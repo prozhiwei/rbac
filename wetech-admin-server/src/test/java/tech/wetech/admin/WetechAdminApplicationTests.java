@@ -28,6 +28,9 @@ public class WetechAdminApplicationTests {
     @Test
     public void contextLoads() {
     }
+    @Test
+    public void contextLoads1() {
+    }
 
     @Test
     public void queryPermissionTreeWithService() {
